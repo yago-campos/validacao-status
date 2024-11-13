@@ -1,4 +1,4 @@
-# Subpedido Status Validation
+# Validação de status de pedidos duplicados
 
 Este repositório contém um script em Python desenvolvido para validar e classificar o status de subpedidos a partir de um relatório em Excel. 
 O código processa dados de CNPJ, número da nota, EAN do produto e quantidade faturada para identificar duplicidades de subpedidos e determinar quais são corretos e incorretos.
